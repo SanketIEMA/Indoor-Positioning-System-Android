@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Indoor Navigation</string>
+
+    <string name="scan_failed">Scan failed</string>
+    <string name="permission_required">Please allow location permission</string>
+    <string name="error_message">Error: %1$s</string>
+</resources>
